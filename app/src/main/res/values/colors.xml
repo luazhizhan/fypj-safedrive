@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- theme color -->
+    <color name="primary">#607D8B</color>
+    <color name="primary_dark">#455A64</color>
+    <color name="primary_light">#CFD8DC</color>
+    <color name="accent">#009688</color>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="color_background">#ff303030</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="image_button_ripple">#E0E0E0</color>
+
+    <!-- speedometer fragment -->
+    <color name="speedometer_money">#00E676</color>
+    <color name="speedometer_distance">#80D8FF</color>
+
+    <!-- trips fragment -->
+    <color name="trip_filter">#424242</color>
+    <color name="trip_penalty">#FFFFFF</color>
+    <color name="trip_incentive">#FFFFFF</color>
+    <color name="trip_date_range">#26C6DA</color>
+
+    <!-- selected Trip -->
+    <color name="error_message">#1DE9B6</color>
+
+    <!-- privateSettlement -->
+    <color name="private_settlement_paying_party">#FF5252</color>
+    <color name="private_settlement_receving_party">#536DFE</color>
+    <color name="private_settlement_pen_color">#000000</color>
+    <color name="private_settlement_error">#1DE9B6</color>
+
+    <!-- Chart -->
+    <color name="bar_chart_color">#00BFA5</color>
+    <color name="line_chart_color">#18FFFF</color>
+    <color name="line_chart_circle_color">#00B8D4</color>
+
+    <color name="line_chart_color2">#B2DFDB</color>
+    <color name="line_chart_circle_color2">#80CBC4</color>
+
+    <!--All Approved Repair Shop -->
+    <color name="company_name_color">#69F0AE</color>
+
+    <!-- trip safety index details -->
+    <color name="trip_safety_index_band_1">#69F0AE</color>
+    <color name="trip_safety_index_band_2">#EEFF41</color>
+    <color name="trip_safety_index_band_3">#FFAB40</color>
+    <color name="trip_safety_index_band_4">#FF5252</color>
+</resources>

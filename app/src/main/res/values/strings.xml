@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SafeDrive</string>
+    <string name="menu_speedometer">Speedometer</string>
+    <string name="menu_trip">Trip</string>
+    <string name="menu_chart">Chart</string>
+    <string name="menu_profile">Profile</string>
+
+    <!-- Speedometer Fragment -->
+    <string name="speedometer_card_speed">0km/h</string>
+    <string name="speedometer_viewpager1_distance">0m</string>
+    <string name="speedometer_viewpager1_speed">0km/h</string>
+    <string name="speedometer_cost_defaultcost">$0.00</string>
+
+
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="private_settlement_required_field">Required</string>
+
+    <string name="open_weather_api_key">OPEN-WEATHER-API-KEY</string>
+</resources>

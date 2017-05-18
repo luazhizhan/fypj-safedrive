@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:layout_marginTop="3dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="6dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:paddingTop="6dp"
+        android:background="@drawable/nav_row_ripple">
+
+        <TextView
+            android:id="@+id/allApprovedRepairCompanyName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/allApprovedRepairAddress"
+            android:text="Ah Lim Motor Company"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/primary_light"
+            android:textSize="24dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/allApprovedRepairAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/allApprovedRepairCompanyName"
+            android:text="10 Ang Mo Kio Ind. Park 2A #01-09 AMK Auto Point"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/allApprovedRepairAddress"
+            android:layout_below="@+id/allApprovedRepairAddress"
+            android:text="Tel: "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/allApprovedRepairAddressTelNo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/allApprovedRepairAddress"
+            android:layout_toEndOf="@+id/textView21"
+            android:text="64563637"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/allApprovedRepairAddressRemarksTag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/textView21"
+            android:layout_below="@+id/textView21"
+            android:text="Remarks: "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/allApprovedRepairAddressRemarks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/allApprovedRepairAddressRemarksTag"
+            android:layout_toEndOf="@+id/allApprovedRepairAddressRemarksTag"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="bold" />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

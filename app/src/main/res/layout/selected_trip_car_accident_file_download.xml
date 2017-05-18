@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/primary_dark"
+        android:paddingBottom="12dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="12dp">
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Car Accident Form"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="New Button"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:background="@drawable/button_ripple_dark"
+            android:id="@+id/privateSettleCarAccidentDownloadBtn"
+            android:layout_below="@+id/textView23"
+            android:layout_alignLeft="@+id/textView23"
+            android:layout_alignStart="@+id/textView23" />
+
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

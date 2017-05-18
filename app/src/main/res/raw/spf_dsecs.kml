@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="SPF_DSECS">
+  <name>SPF_DSECS</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>SPF_DSECS</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>SPF-DSECS-9104</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9104</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9104</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Holland Road towards Farrer Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.30809473930226</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.810180971797</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>25425</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>32268</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>620596BFE25ACECE</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:10 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>25425</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>32268</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8101809717971,1.308094739302259,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>SPF-DSECS-9105</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9105</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9105</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Holland Road towards Grange Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.30806760861228</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.81020792848</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>25428</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>32265</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>093ECC85EFFA2518</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>25428</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>32265</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8102079284798,1.308067608612278,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>SPF-DSECS-9103</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9103</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9103</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Yishun Avenue 2 towards Lentor Avenue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.41529819611881</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.832285202807</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>27885</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>44122</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>8D51AD217B2DBECB</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>27885</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>44122</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8322852028067,1.415298196118805,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>SPF-DSECS-9102</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9102</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9102</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Yishun Avenue 2 towards Sembawang Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.41532532704901</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.832312160422</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>27888</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>44125</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>42764E6A339EC8DE</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>27888</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>44125</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8323121604223,1.41532532704901,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>SPF-DSECS-9117</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9117</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9117</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Bukit Batok Road towards Chua Chu Kang Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.3619479958435</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.74152096923</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>17784</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>38223</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>B270AD2E86DF5799</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>17784</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>38223</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7415209692295,1.361947995843499,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>SPF-DSECS-9116</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9116</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9116</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Bukit Batok Road towards Jurong Town Hall Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.36197512777203</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.741547925191</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>17787</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>38226</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>ADF9D2628FFF78A9</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>17787</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>38226</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7415479251913,1.361975127772033,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>SPF-DSECS-9107</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9107</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9107</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Boon Lay Way towards Commonwealth Avenue West</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.34473730365346</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.725491310893</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>16000</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>36320</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>902880D87E343924</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>16000</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>36320</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7254913108929,1.344737303653458,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>SPF-DSECS-9106</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9106</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9106</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Boon Lay Way towards Jalan Boon Lay</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.34474634848035</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.725518267281</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>16003</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>36321</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>91539FC6D1993FA5</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>16003</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>36321</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.725518267281,1.344746348480353,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>SPF-DSECS-9108</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9108</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9108</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Ayer Rajah Expressway towards City</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.29823673972661</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.78167924014</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>22253</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>31178</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>1493E16CE66C6EC4</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>22253</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>31178</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7816792401399,1.298236739726613,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>SPF-DSECS-9109</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9109</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9109</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Ayer Rajah Expressway towards Jurong</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.2982186533609</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.781724167708</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>22258</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>31176</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>80559AC4B05B971E</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>22258</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>31176</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7817241677078,1.2982186533609,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>SPF-DSECS-9111</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9111</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9111</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Bukit Timah Expressway towards Pan Island Expressway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.38232437354741</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.775486299165</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>21564</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>40476</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>65D68704CFBE106A</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>21564</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>40476</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.775486299165,1.38232437354741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>SPF-DSECS-9110</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9110</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9110</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Bukit Timah Expressway towards Woodlands</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.382224894418</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.775522244554</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>21568</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>40465</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>1471C43B7635EA19</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>21568</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>40465</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.7755222445539,1.382224894418002,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>SPF-DSECS-9113</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9113</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9113</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Pan Island Expressway towards East Coast Parkway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.33525281258995</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.810737825993</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>25487</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>35271</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>5D22EC748D41A614</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>25487</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>35271</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8107378259928,1.335252812589951,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>SPF-DSECS-9112</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9112</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9112</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Pan Island Expressway towards Tuas</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.3352166383431</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.810773768625</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>25491</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>35267</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>99404FCC734218A0</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>25491</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>35267</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8107737686255,1.335216638343102,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>SPF-DSECS-9114</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9114</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9114</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Seletar Expressway towards Bukit Timah Expressway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.4083073256175</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.80811327302</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>25195</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>43349</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>38976A25C54E2F6F</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>25195</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>43349</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8081132730197,1.408307325617496,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>SPF-DSECS-9115</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9115</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9115</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Seletar Expressway towards Central Expressway</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.40819880234007</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.808149217577</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>25199</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>43337</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>1606BD870057CFAF</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>25199</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>43337</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8081492175769,1.408198802340066,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>SPF-DSECS-9101</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9101</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9101</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Upper Thomson Road towards Lornie Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.38688304216287</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.820352116247</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>26557</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>40980</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>B790196DFCD0A7EB</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>26557</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>40980</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8203521162467,1.386883042162874,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>SPF-DSECS-9100</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9100</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9100</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Upper Thomson Road towards Sembawang Road</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.38686495512772</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.820397045181</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>26562</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>40978</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>AC771F76692B4EC3</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>26562</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>40978</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8203970451815,1.386864955127723,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>SPF-DSECS-9119</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9119</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9119</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Yishun Avenue 1 towards Lentor Avenue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.41389641843669</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.841316003183</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>28890</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>43967</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>0508B0FED20EECF1</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>28890</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>43967</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.8413160031825,1.413896418436688,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>SPF-DSECS-9118</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>SPF-DSECS-9118</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>SPF-DSECS-9118</td>
+</tr>
+<tr>
+<td>DESCRIPTION</td>
+<td>Loyang Avenue towards Tampines Avenue 7</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>LATITUDE</td>
+<td>1.3692078755048</td>
+</tr>
+<tr>
+<td>LONGITUDE</td>
+<td>103.970098793517</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_Coordinate</td>
+<td>43222</td>
+</tr>
+<tr>
+<td>Y_Coordinate</td>
+<td>39026</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>INC_CRC</td>
+<td>6D1A5EB0A0BDB9F4</td>
+</tr>
+<tr>
+<td>FMEL_UPD_D</td>
+<td>3/27/2015 12:56:16 PM</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>X_ADDR</td>
+<td>43222</td>
+</tr>
+<tr>
+<td>Y_ADDR</td>
+<td>39026</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 103.9700987935173,1.369207875504802,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>Layer0_Symbol_190dd1f0.png</href></Icon>
+      <scale>0.250000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

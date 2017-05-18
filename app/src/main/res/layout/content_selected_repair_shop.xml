@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <fragment
+        android:id="@+id/selectedRepairShopMap"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/selectedRepairShopMap">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:background="@color/primary_dark"
+                android:padding="12dp"
+                android:text="Address"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView
+                android:id="@+id/selectedRepairAddressTxtView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/textView17"
+                android:layout_alignStart="@+id/textView22"
+                android:layout_below="@+id/textView17"
+                android:background="@color/primary_dark"
+                android:padding="12dp"
+                android:text="38, Woodlands Industrial Park E1, #05-18"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/selectedRepairAddressTxtView"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:background="@color/primary_dark"
+                android:padding="12dp"
+                android:text="TelNo"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView
+                android:id="@+id/selectedRepairTelTxtView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/textView22"
+                android:layout_alignStart="@+id/textView22"
+                android:layout_below="@+id/textView22"
+                android:background="@color/primary_dark"
+                android:padding="12dp"
+                android:text="86159362"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/selectedRepairRemarksTxtViewTag"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/selectedRepairTelTxtView"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:background="@color/primary_dark"
+                android:padding="12dp"
+                android:text="Remarks"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <TextView
+                android:id="@+id/selectedRepairRemarksTxtView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/selectedRepairRemarksTxtViewTag"
+                android:layout_alignStart="@+id/selectedRepairRemarksTxtViewTag"
+                android:layout_below="@+id/selectedRepairRemarksTxtViewTag"
+                android:background="@color/primary_dark"
+                android:padding="12dp"
+                android:text="Hello"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/selectedRepairShopSetRepairShopBtn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/selectedRepairRemarksTxtView"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="6dp"
+                android:layout_marginTop="6dp"
+                android:background="@drawable/button_ripple"
+                android:padding="12dp"
+                android:text="Set this repair shop for the accident" />
+
+
+        </RelativeLayout>
+
+
+    </ScrollView>
+</RelativeLayout>

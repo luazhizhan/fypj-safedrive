@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/carClaimNecessaryLayout"
+    android:visibility="gone"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/carClaimScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="12dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:paddingTop="12dp">
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="3dp"
+                android:text="Car Claim Accident Form"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView763"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textView15"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="30dp"
+                android:text="(Other Information)"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/textView763"
+                android:layout_marginBottom="3dp"
+                android:text="Photos of Accident"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <HorizontalScrollView
+                android:id="@+id/carClaimHrnScrollView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/textView13"
+                android:layout_marginBottom="20dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <ImageButton
+                        android:id="@+id/carClaimPhotoImgBtn1"
+                        android:layout_width="150dp"
+                        android:layout_height="230dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/image_button_ripple"
+                        android:src="@mipmap/ic_add"
+                        android:tag="noBitmap" />
+
+                    <ImageButton
+                        android:id="@+id/carClaimPhotoImgBtn2"
+                        android:layout_width="150dp"
+                        android:layout_height="230dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/image_button_ripple"
+                        android:src="@mipmap/ic_add"
+                        android:tag="noBitmap" />
+
+                    <ImageButton
+                        android:id="@+id/carClaimPhotoImgBtn3"
+                        android:layout_width="150dp"
+                        android:layout_height="230dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/image_button_ripple"
+                        android:src="@mipmap/ic_add"
+                        android:tag="noBitmap" />
+
+                    <ImageButton
+                        android:id="@+id/carClaimPhotoImgBtn4"
+                        android:layout_width="150dp"
+                        android:layout_height="230dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/image_button_ripple"
+                        android:src="@mipmap/ic_add"
+                        android:tag="noBitmap" />
+
+                    <ImageButton
+                        android:id="@+id/carClaimPhotoImgBtn5"
+                        android:layout_width="150dp"
+                        android:layout_height="230dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/image_button_ripple"
+                        android:src="@mipmap/ic_add"
+                        android:tag="noBitmap" />
+
+                    <ImageButton
+                        android:id="@+id/carClaimPhotoImgBtn6"
+                        android:layout_width="150dp"
+                        android:layout_height="230dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginRight="10dp"
+                        android:background="@drawable/image_button_ripple"
+                        android:src="@mipmap/ic_add"
+                        android:tag="noBitmap" />
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/carClaimRemarksEditTxtInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/carClaimHrnScrollView"
+                app:errorTextAppearance="@style/error_appearance">
+
+                <EditText
+                    android:id="@+id/carClaimRemarksEditTxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Remarks"
+                    android:inputType="textMultiLine" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <Button
+                android:id="@+id/carClaimSubmitBtn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/carClaimRemarksEditTxtInput"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/button_ripple_dark"
+                android:text="Submit" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="80dp">
+
+    <ScrollView
+        android:id="@+id/privateSettleScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="12dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:paddingTop="12dp">
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="Private Settlement Form"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/privateSettlePartyTxtView"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="(Paying Party)"
+                android:textColor="@color/private_settlement_paying_party"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/privateSettleAutoFillBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="Auto Fill Form"
+                android:layout_gravity="center_horizontal" />
+
+            <android.support.design.widget.TextInputLayout
+                app:errorTextAppearance="@style/error_appearance"
+                android:id="@+id/privateSettleFullNameTxtInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/privateSettleFullNameEditTxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Full Name"
+                    android:inputType="textPersonName" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                app:errorTextAppearance="@style/error_appearance"
+                android:id="@+id/privateSettleNRICNumTxtInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/privateSettleNRICNumEditTxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="NRIC Number" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                app:errorTextAppearance="@style/error_appearance"
+                android:id="@+id/privateSettleContactNumTxtInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/privateSettleContactNumEditTxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="10"
+                    android:hint="Contact Number"
+                    android:inputType="number" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                app:errorTextAppearance="@style/error_appearance"
+                android:id="@+id/privateSettleMotorRegNoTxtInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/privateSettleMotorRegNoEditTxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Motor-vehicle Registration No" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                app:errorTextAppearance="@style/error_appearance"
+                android:id="@+id/privateSettleInsuranceCompanyTxtInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/privateSettleInsuranceCompanyEditTxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Insurance Company" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.design.widget.TextInputLayout
+                app:errorTextAppearance="@style/error_appearance"
+                android:id="@+id/privateSettleCompensationAmtTxtInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <EditText
+                    android:id="@+id/privateSettleCompensationAmtEditTxt"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_below="@+id/textView19"
+                    android:ems="10"
+                    android:hint="Compensation Amount"
+                    android:inputType="numberDecimal" />
+
+            </android.support.design.widget.TextInputLayout>
+
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Signature"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <com.github.gcacace.signaturepad.views.SignaturePad
+                android:background="@color/white"
+                android:id="@+id/privateSettleSignPad"
+                android:layout_width="fill_parent"
+                app:penColor="@color/private_settlement_pen_color"
+                android:layout_height="200dp" />
+
+            <TextView
+                android:id="@+id/privateSettleSignatureError"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12sp"
+                android:textColor="@color/private_settlement_error"
+                android:text="Please Sign"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+            <View
+                android:id="@+id/view5"
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="3dp"
+                android:background="@color/white" />
+
+            <Button
+                android:id="@+id/privateSettleClearSignatureBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:text="Clear Signature" />
+
+            <Button
+                android:id="@+id/privateSettleNxtSubmitBtn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/button_ripple_dark"
+                android:text="Next" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

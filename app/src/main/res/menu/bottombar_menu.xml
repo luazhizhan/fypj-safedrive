@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_speedometer"
+        android:icon="@mipmap/ic_menu_speedometer"
+        android:title="@string/menu_speedometer" />
+    <item
+        android:id="@+id/menu_trip"
+        android:icon="@mipmap/ic_menu_trip"
+        android:title="@string/menu_trip" />
+    <item
+        android:id="@+id/menu_chart"
+        android:icon="@mipmap/ic_menu_chart"
+        android:title="@string/menu_chart" />
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@mipmap/ic_menu_driver"
+        android:title="@string/menu_profile" />
+</menu>
