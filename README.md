@@ -13,14 +13,17 @@ A car insurance application - SafeDrive that has a car insurance smart pricing m
 - Beacon integration
 - Accident Reporting
 
-## Technology used
+## Technology Used
 - Beacon - [Links here](http://estimote.com)
 - Firebase - [Links here](http://firebase.google.com/)
 - Google Map - [Links here](https://developers.google.com/maps/)
 - Open Weather Api - [Links here](https://openweathermap.org/)
+
+## Library Used
 - iText PDF - [Links here](http://itextpdf.com/)
 - MPAndroidChart - [Links here](https://github.com/PhilJay/MPAndroidChart)
 - Signature Pad - [Links here](https://github.com/gcacace/android-signaturepad)
+- JSoap - [Links here](https://github.com/joaocruz04/JSoap)
 
 ## Gallery
 <img width=250 height=400 align="left" src="https://firebasestorage.googleapis.com/v0/b/project-5875713175278370183.appspot.com/o/Github%2Fphoto6120635491712870334.jpg?alt=media&token=4ec8d814-3be4-42e7-a481-f10d240d5ed8" alt="Photo1"/>
